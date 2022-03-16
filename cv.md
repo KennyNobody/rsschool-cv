@@ -36,3 +36,7 @@ class Menu {
     }
 }
 ```
+
+### Languages
+- Russian (native)
+- English (pre-intermediate)
